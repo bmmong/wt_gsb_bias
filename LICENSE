@@ -1,6 +1,39 @@
-MIT License
+This repository contains both written analysis/documentation and source code.
+Different licenses apply to each component:
 
-Copyright (c) 2026  beastmaster69mong
+1. The written report, documentation, charts, and data are licensed under the
+   Creative Commons Attribution 4.0 International License (CC BY 4.0).
+2. All source code and scripts are licensed under the MIT License.
+
+
+================================================================================
+PART 1: WRITTEN REPORT & DOCUMENTATION (CC BY 4.0)
+================================================================================
+
+Copyright (c) 2026 beastmaster69mong
+
+This work is licensed under the Creative Commons Attribution 4.0 International
+License. To view a copy of this license, visit:
+https://creativecommons.org/licenses/by/4.0/
+
+You are free to:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material for any purpose, 
+  even commercially.
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the 
+  license, and indicate if changes were made. You may do so in any reasonable 
+  manner, but not in any way that suggests the licensor endorses you or your use.
+- No additional restrictions: You may not apply legal terms or technological 
+  measures that legally restrict others from doing anything the license permits.
+
+
+================================================================================
+PART 2: SOURCE CODE & SCRIPTS (MIT License)
+================================================================================
+
+Copyright (c) 2026 beastmaster69mong
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +52,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+================================================================================
+PART 3: TRADEMARK & THIRD-PARTY DISCLAIMER
+================================================================================
+
+War Thunder is a registered trademark of Gaijin Network Ltd.
+
+This project is an independent community analysis and is not affiliated with,
+endorsed by, sponsored by, or connected to Gaijin Network Ltd., Gaijin
+Entertainment, or any of their affiliates. 
+
+All game content, vehicle names, and proprietary materials referenced herein
+remain the property of their respective copyright holders and are used under
+fair use principles for the purpose of research, analysis, and commentary.
